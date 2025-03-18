@@ -63,8 +63,8 @@ Currently, I'm on a mission to master the art of coding from the internet while 
 
 |ABD|
 |:-:|
-|[![@abdbbdii](https://github.com/abdbbdii.png?size=150)](https://github.com/abdbbdii)|
-|[@abdbbdii](https://github.com/abdbbdii)|
+|[![@abdbbdii](https://github.com/abdxdev.png?size=150)](https://github.com/abdxdev)|
+|[@abdbbdii](https://github.com/abdxdev)|
 
 </div>
 
